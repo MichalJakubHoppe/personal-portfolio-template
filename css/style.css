@@ -94,6 +94,7 @@ header img {
 header,
 section {
     padding: 3.25em 0;
+    width: 100%;
 }
 
 header {
