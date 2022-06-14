@@ -181,13 +181,14 @@ section {
         background: #252525;
         color: #fff;
         min-height: 100vh;
+        width: 100%;
         display: flex;
         align-items: center;
     }
     
     .portfolio .container {
         max-width: 1200px;
-        width: 100%;
+        
     }
     
     .work {
